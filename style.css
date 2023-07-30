@@ -68,7 +68,9 @@ a {
     border-radius: 20px;
 }
 
-.left-text-copy {
+.left-text-button:hover {
+    background-color: #737CA1;
+    color: white;
 }
 
 .right-image {
@@ -169,11 +171,14 @@ i {
     align-content: center;
     background-color: #fff2f0;
     border-radius: 20px;
+    text-align: center;
 }
 
-.cta-button-text {
-    color: black;
+.cta-button:hover {
+    background-color: #737CA1;
+    color: white;
 }
+
 
 .last-image {
     display: flex;
